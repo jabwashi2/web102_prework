@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='![](https://github.com/jabwashi2/web102_prework/blob/main/assets/prework_submission.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/jabwashi2/web102_prework/blob/main/assets/prework_submission.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
